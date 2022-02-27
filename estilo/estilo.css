@@ -141,6 +141,11 @@ main img.pequena{
     margin: auto;
 }
 
+main div.video{
+    text-align: center;
+}
+
+
 footer{
     background-color: var(--cor5);
     color: white;
